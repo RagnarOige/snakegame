@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+    margin: 0;
+}
+
+canvas {
+    border: solid 2px peru;
+}
